@@ -13,7 +13,7 @@ public class Main {
 
         double resultado = numero1 + numero2;
 
-        System.out.println("la suma de" + numero1 + "+" +  + "=" +resultado);
+        System.out.println("la suma de" + numero1 + "+" + numero2 + "=" +resultado);
 
     }
 }
